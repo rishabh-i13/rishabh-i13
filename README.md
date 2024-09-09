@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web Dev, CP, DSA.**
 
-- 📫 How to reach me **rishabhtechi13@gmail.com**
+- 📫 How to reach me **rishabh7051@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
